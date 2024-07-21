@@ -1,0 +1,11 @@
+{
+    "title": "benchmark",
+    "range": "22-AA",
+    "actions": {
+        "check":"sometimes",
+        "call":"sometimes",
+        "fold":"sometimes",
+        "raise":"sometimes",
+        "all-in":"sometimes"
+    }
+}
